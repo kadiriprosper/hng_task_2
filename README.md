@@ -1,16 +1,10 @@
-# hng_task_2
+## HNG Task 2
 
-A new Flutter project.
+### Task-description
+This task was to build a simple 2-paged cv app.
 
-## Getting Started
+Page 1 is a page to view the CV while page 2 is to edit the CV.
 
-This project is a starting point for a Flutter application.
+On the click of the save button in page 2, the app is pushes back to the screen page 1 with all the  updated values in place.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+No 3rd party library was used fot this as per task instructions.
